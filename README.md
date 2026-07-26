@@ -95,6 +95,9 @@ $("#initial-width, #initial-height").on("change keyup", function() {
 });
 ```
 
+> [!NOTE]
+> Не забудьте подключить библиотеку JQuery, например, jquery-3.1.0.min.js.
+
 ## CSS
 
 ```css
